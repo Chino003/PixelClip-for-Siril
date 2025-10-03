@@ -1,4 +1,5 @@
-Star Correction Script for Monochromatic Astro-Images
+# Star Correction Script for Monochromatic Astro-Images
+
 This script improves monochromatic astrophotography images by correcting overexposed star pixels that exceed a given brightness threshold.
 By setting a threshold value, pixels beyond that limit are replaced (or normalized), helping to reduce saturation and artifacts often caused by long exposures.
 
